@@ -23,4 +23,3 @@ void ArraySorting(string[] array) //Метод, сортирующий данн�
 
 string[] arrayNames = {"Alex", "Jon", "Michel", "Ben", "Maria", "Leo", "Be"};
 ArraySorting(arrayNames);
-
